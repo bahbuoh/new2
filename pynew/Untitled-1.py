@@ -4,6 +4,8 @@ import pandas as pd
 data = pd.read_csv('data/1h/AGLDUSDT.csv',index_col=0)
 df= data
 
+
+#new edite 
 import plotly.graph_objects as go
 
 
